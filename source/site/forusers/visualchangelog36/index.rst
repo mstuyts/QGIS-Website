@@ -182,7 +182,7 @@ Feature: Multiline selections and editing in code/expression editors
 
 Holding ctrl while selecting in the QGIS expressions and Python script editors allows you to select a multi-line block of text, which can be edited all at once.
 
-This feature was developed by `Nyall Dawson () <https://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
 
 Symbology
 ---------
@@ -194,7 +194,7 @@ The browser panel now shows QGIS style xml libraries, and these files can also b
 
 This feature was funded by `North Road <https://north-road.com>`__
 
-This feature was developed by `Nyall Dawson (North Road) <https://north-road.com>`__
+This feature was developed by `Nyall Dawson (North Road) <http://north-road.com>`__
 
 Feature: Optionally force right-hand-rule during polygon symbol rendering
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
